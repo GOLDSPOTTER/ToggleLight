@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ToggleLight : MonoBehaviour
+public class ToggleLight : MonoBehaviour 
 {
     public GameObject lights;
     private new bool enabled;
